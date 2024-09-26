@@ -7,7 +7,7 @@
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 </head>
 <body>
-	<iframe src="https://www.brainwareuniversity.ac.in/studentselfservice/" frameborder="0" width="100%" height="500"></iframe>
+	<iframe src="https://www.flipkart.com/" frameborder="0" width="100%" height="500"></iframe>
 	<button onclick="takeScreenshot()">Take Screenshot</button>
 </body>
 <script type="text/javascript">
