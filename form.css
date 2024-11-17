@@ -1,0 +1,29 @@
+h5{
+    background-color: rgb(43, 226, 189);
+    color-scheme: blue;
+    border-color: blue;
+    border-bottom: 0cm;
+    
+
+}
+body{
+    background-color: darkseagreen;
+    outline-width: 0cm;
+}
+br{
+    color: chartreuse;
+}
+iframe{
+    background-color: darkslategrey;
+    border-color: chartreuse;
+    border-style: double;
+}
+label{
+    background-color: blueviolet;
+    border-color: yellow;
+
+}
+::placeholder{
+    background-color: mediumspringgreen;
+    color-scheme: yellow;
+}
