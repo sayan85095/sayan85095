@@ -43,7 +43,6 @@ I enjoy building practical projects, solving programming problems, and learning 
 ### Core Concepts
 
 * Data Structures & Algorithms
-* Object-Oriented Programming
 * Problem Solving
 * Git & GitHub
 
