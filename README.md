@@ -19,7 +19,7 @@
 
 * Programming → Python, C
 * Web → HTML, CSS, JavaScript
-* Concepts → OOP, Data Structures, Problem Solving
+* Concepts →  Data Structures, Problem Solving
 
 ---
 
