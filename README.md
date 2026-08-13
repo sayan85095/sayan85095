@@ -62,11 +62,6 @@ An AI-based chatbot designed to answer basic health-related queries using NLP te
 
 **Tech:** Python, NLP, AI
 
-### 🌾 Farmer AI Chatbot — SIH 2025
-
-AI chatbot project developed for providing agriculture-related guidance and support to farmers.
-
-**Tech:** Python, AI, Chatbot, Web Development
 
 ---
 
