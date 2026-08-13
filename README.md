@@ -23,15 +23,6 @@
 
 ---
 
-## 📌 Featured Project
-
-### 📝 To-Do List App (Python GUI)
-
-✔ Add tasks
-✔ Delete tasks
-✔ Mark completed
-
----
 
 ## 📊 GitHub Stats
 
