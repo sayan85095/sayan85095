@@ -50,17 +50,33 @@ I enjoy building practical projects, solving programming problems, and learning 
 
 ## 📌 Featured Projects
 
-### 🌱 Plant Disease Detection
+### 🌱 PlantBot AI
 
-AI-powered application for detecting plant diseases using Machine Learning and providing useful agricultural insights.
+AI-powered plant disease classification and agricultural assistance platform designed to help users identify plant diseases and get useful agricultural insights.
 
-**Tech:** Python, TensorFlow/Keras, FastAPI, HTML, CSS, JavaScript
+**Tech:** Python, TensorFlow/Keras, FastAPI, AI/ML
 
-🧠 ML Algorithm Explainer
+🔗 **Repository:** https://github.com/sayan85095/PlantBot-AI
+
+---
+
+### 🧠 ML Algorithm Explainer
 
 Interactive application that helps users understand and explore Machine Learning algorithms through simple explanations and visualizations.
 
-Tech: Python, Machine Learning, Streamlit
+**Tech:** Python, Machine Learning, Streamlit
+
+🔗 **Repository:** https://github.com/sayan85095/ml-algorithm-explainer
+
+---
+
+### ✋ Hand Gesture Control
+
+Computer vision-based project that uses hand gesture recognition to enable interactive control through hand movements.
+
+**Tech:** Python, Computer Vision, OpenCV, Machine Learning
+
+🔗 **Repository:** https://github.com/sayan85095/Hand-Gesture-Control
 
 
 ---
