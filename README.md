@@ -56,20 +56,16 @@ AI-powered application for detecting plant diseases using Machine Learning and p
 
 **Tech:** Python, TensorFlow/Keras, FastAPI, HTML, CSS, JavaScript
 
-### 🤖 AI Health Chatbot
-
-An AI-based chatbot designed to answer basic health-related queries using NLP techniques.
-
-**Tech:** Python, NLP, AI
 
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayan85095\&show_icons=true\&theme=tokyonight)
+![Sayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayan85095&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayan85095\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayan85095&layout=compact&theme=tokyonight)
+
 
 ---
 
