@@ -60,11 +60,12 @@ AI-powered application for detecting plant diseases using Machine Learning and p
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Sayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayan85095&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayan85095&layout=compact&theme=tokyonight)
+- 📂 12+ Public Repositories
+- ⭐ Open-source projects and personal projects
+- 💻 Python, C, JavaScript & Web Development
+- 🤖 AI/ML and real-world project development
 
 ---
 
