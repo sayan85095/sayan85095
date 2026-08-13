@@ -66,7 +66,6 @@ AI-powered application for detecting plant diseases using Machine Learning and p
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayan85095&layout=compact&theme=tokyonight)
 
-
 ---
 
 ## 🤝 Connect With Me
