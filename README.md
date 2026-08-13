@@ -56,6 +56,11 @@ AI-powered application for detecting plant diseases using Machine Learning and p
 
 **Tech:** Python, TensorFlow/Keras, FastAPI, HTML, CSS, JavaScript
 
+🧠 ML Algorithm Explainer
+
+Interactive application that helps users understand and explore Machine Learning algorithms through simple explanations and visualizations.
+
+Tech: Python, Machine Learning, Streamlit
 
 
 ---
